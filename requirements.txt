@@ -1,0 +1,28 @@
+# Core dependencies
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+
+# Streamlit for web app
+streamlit==1.28.1
+streamlit-option-menu==0.3.6
+
+# Visualization
+plotly==5.17.0
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Natural Language Processing
+nltk==3.8.1
+
+# Progress tracking
+tqdm==4.66.1
+
+# Model serialization
+pickle-mixin==1.0.2
+
+# Additional ML algorithms (optional)
+xgboost==1.7.6
+
+# Utility
+python-dotenv==1.0.0
