@@ -1,4 +1,4 @@
-# Indonesian Recipe Recommendation System
+# Indonesian Recipe Finder
 
 Machine Learning system untuk rekomendasi resep masakan Indonesia menggunakan TF-IDF dan SVM.
 
